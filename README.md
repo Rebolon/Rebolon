@@ -2,10 +2,11 @@
 
 - 🔭 I’m currently working at Sogexia
 - 🌱 I’m currently improving my skills on Angular and RxJS
+-    I try to improve my Lead Developer skills
 
 ### Bio
 
-Keen on web development, i practice a lot of PHP over different frameworks like symfony or copix. Even if i also did some #dotNet, #java or #coldfusion, i liked workgin with #meteorjs (a so cool #nodejs platform for server-side Javascript). Front-end is also a new part of my job with #VueJS (v2... not started on v3) and #Angular (v2...15).
+Keen on web development, i practice a lot of PHP over different frameworks like symfony or copix. Even if i also did some #dotNet, #java or #coldfusion, i liked workgin with #meteorjs (a so cool #nodejs platform for server-side Javascript). Front-end is also a new part of my job with #VueJS (v2... not started on v3) and #Angular (v2...16).
 
 In 2014 i did a talk about meteor at #LyonJs organization (in french https://youtu.be/ncLUaIDmCDk?t=1045) , and since the #worldwidemeteorday i leaded a #meteorjs #meetup group in #Lyon for 3 years.
 
@@ -21,4 +22,4 @@ I'm not a core contributor to open-source, but i try to help them when i can. Yo
 
 If you have a project, contact me, i'm sure i may help you.
 
-Except my work, i'm keen on bicycle (road for speed and mountain bike for nature), and i really love my family and my 3 beautiful daughters.
+Except my work, i'm keen on bicycle (road for speed and mountain bike for nature) and i started small ultra races with the Gravelman Series (350km, ~4000 - 7500D+, in full autonomy). And finally i really love my family and my 3 beautiful daughters that support me all day long.
