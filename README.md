@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Sogexia
+- 🔭 I’m currently working at Sogexia, but if there is a great challenge, i'm available for hire
 - 🌱 I’m currently improving my skills on Angular and RxJS
--    I try to improve my Lead Developer skills
+-    I try to improve my Lead Developer skills, but this is more management and less engineering parts, that's why i would like to change
 
 ### Bio
 
-Keen on web development, i practice a lot of PHP over different frameworks like symfony or copix. Even if i also did some #dotNet, #java or #coldfusion, i liked workgin with #meteorjs (a so cool #nodejs platform for server-side Javascript). Front-end is also a new part of my job with #VueJS (v2... not started on v3) and #Angular (v2...16).
+Keen on web development, i practice a lot of PHP over different frameworks like symfony or copix. Even if i also did some #dotNet, #java or #coldfusion, i liked workgin with #meteorjs (a so cool #nodejs platform for server-side Javascript). Front-end is also a new part of my job with #VueJS (v2... not started on v3) and #Angular (v2...18).
 
 In 2014 i did a talk about meteor at #LyonJs organization (in french https://youtu.be/ncLUaIDmCDk?t=1045) , and since the #worldwidemeteorday i leaded a #meteorjs #meetup group in #Lyon for 3 years.
 
