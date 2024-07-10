@@ -22,4 +22,4 @@ I'm not a core contributor to open-source, but i try to help them when i can. Yo
 
 If you have a project, contact me, i'm sure i may help you.
 
-Except my work, i'm keen on bicycle (road for speed and mountain bike for nature) and i started small ultra races with the Gravelman Series (350km, ~4000 - 7500D+, in full autonomy). And finally i really love my family and my 3 beautiful daughters that support me all day long.
+Except my work, i'm keen on bicycle (road for speed and mountain bike for nature) and i started small ultra races with the Gravelman Series (350km, ~4000 - 7500D+, in full autonomy). In 2024 i also run on La Marmotte, an hard race in the alps with the climbs of Glandon, Telegraphe, Galibier and Alpes d'Huez. And finally i really love my family and my 3 beautiful daughters that support me all day long.
